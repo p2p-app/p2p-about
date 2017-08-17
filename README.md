@@ -2,7 +2,7 @@
 Peer2Peer is an iOS app that connects volunteer tutors to students in need of academic help based on subjects and physical proximity with a rapid, minimalist front-end and a powerful RESTful backend and database.  
 
 ## CAC 2016
-Peer2Peer was submitted to the [2016 Congressional App Challenge](http://www.congressionalappchallenge.us/2016-winners/), won 1st in the 18th Congressional District of California, and received [recognition from Congresswoman Anna Eshoo](https://eshoo.house.gov/constituent-services/house-student-app-challenge/). Mentioned in an [article in The Mercury News](http://www.mercurynews.com/2017/08/14/app-challenge-open-to-district-18-high-school-students/).  
+Peer2Peer was submitted to the [2016 Congressional App Challenge](http://www.congressionalappchallenge.us/about/2016-winners/), won 1st in the 18th Congressional District of California, and received [recognition from Congresswoman Anna Eshoo](https://eshoo.house.gov/constituent-services/house-student-app-challenge/) (this page will be cleared and updated for the 2017 event). Mentioned in an [article in The Mercury News](http://www.mercurynews.com/2017/08/14/app-challenge-open-to-district-18-high-school-students/).  
 Watch the video submission [here](https://www.youtube.com/watch?v=PQ4SMc8Uc-E).
 
 
